@@ -1,5 +1,5 @@
 # 2MRSxCMB
-Code to perform calculations from Addison (2024), 'Does the Correlation between 2MRS Galaxies and the CMB Indicate an Unmodeled CMB Foreground?' (paper accepted for publication by Astrophysical Journal and available on arXiv at https://arxiv.org/abs/2403.10490)
+Code to perform calculations from Addison (2024), 'Does the Correlation between 2MRS Galaxies and the CMB Indicate an Unmodeled CMB Foreground?' (paper accepted for publication by Astrophysical Journal and available on arXiv at https://arxiv.org/abs/2403.10490).
 
 The code is provided in the Jupyter Notebook addison_2mrs_cmb_correlation.ipynb.
 
